@@ -252,7 +252,7 @@ this way, *all* messages will be deleted from your device as soon as they are
 older than that.
 
 
-### How can I delete my chat profile? {#remove-account} 
+### Como podo eliminar o meu perfil? {#remove-account} 
 
 If you are using more than one chat profile,
 you can remove single ones in the top profile switcher menu (on Android and iOS),
