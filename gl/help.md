@@ -1045,9 +1045,9 @@ Delta Chat shows two fingerprints there.
 If the same fingerprints appear on your own and your contact's device,
 the connection is safe.
 
-### Can I reuse my existing private key? {#importkey}
+### Podo empregar a miña chave privada xa existente? {#importkey}
 
-No. 
+Non. 
 
 Delta Chat generates secure OpenPGP keys according to the Autocrypt specification 1.1.
 We do not recommend or offer users to perform manual key management.
