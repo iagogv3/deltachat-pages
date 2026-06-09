@@ -1057,11 +1057,10 @@ If you want to extract your OpenPGP key, there only is an expert method:
 you need to look it up in the "keypairs" SQLite table of a profile backup tar-file.
 
 
-### Was Delta Chat independently audited for security vulnerabilities? {#security-audits}
+### Houbo unha auditoría independente dos vulnerabilidades de seguridade de Delta Chat? {#security-audits}
 
-Yes, multiple times. 
-The Delta Chat project continuously undergoes independent security audits and analysis,
-from most recent to older: 
+Sí, en varias ocasións. 
+O proxecto Delta Chat é sometido de modo continuo a auditorías e análises de seguridade independentes; do máis recente ó máis antigo: 
 
 - 2024 December, an [NLNET-commissioned Evaluation of
   rPGP](https://github.com/rpgp/docs/blob/main/audits/NGI%20Core%20rPGP%20penetration%20test%20report%202024%201.0.pdf) by [Radically Open Security](https://www.radicallyopensecurity.com/) took place.
@@ -1074,11 +1073,11 @@ from most recent to older:
   The issues outlined in these advisories have been fixed and are part of Delta Chat 
   releases on all appstores since December 2024. 
 
-- 2024 March, we received a deep security analysis from the Applied Cryptography
-  research group at ETH Zuerich and addressed all raised issues. 
-  See our blog post about [Hardening Guaranteed End-to-End encryption](https://delta.chat/en/2024-03-25-crypto-analysis-securejoin) for more detailed information and the
-  [Cryptographic Analysis of Delta Chat](https://eprint.iacr.org/2024/918.pdf) 
-  research paper published afterwards. 
+- Marzo 2024, recibimos un análise profundo da seguridade do grupo de investigación en Criptografía Aplicada da ETH de Zürich
+  e tódolos problemas invocados foron abordados. 
+  Consulta a nosa publicación sobre [Reforzamento do cifrado End-to-End garantido](https://delta.chat/en/2024-03-25-crypto-analysis-securejoin) para información máis detallada a a investigación
+  [Análise Criptográfica de Delta Chat](https://eprint.iacr.org/2024/918.pdf) 
+  publicada posteriormente. 
 
 - 2023 April, we fixed security and privacy issues with the "web
   apps shared in a chat" feature, related to failures of sandboxing
