@@ -1191,7 +1191,7 @@ ordered chronologically:
   Receiving more donations also helps us to become more independent and long-term viable
   as a contributor community. 
 
-  [Donate Money](donate){: .cta-button}
+  [Facer unha doazón](donate){: .cta-button}
 
 - Last but by far not least, several pro-bono experts and enthusiasts contributed 
   and contribute to Delta Chat developments without receiving money, or only 
