@@ -1118,10 +1118,10 @@ O proxecto Delta Chat é sometido de modo continuo a auditorías e análises de 
 
 ## Miscellaneous
 
-### Which permissions does Delta Chat need?
+### Que autorizacións precisa Delta Chat?
 
-Some features require certain permissions,
-e.g. you need to grant camera permission if you want to [scan an invite QR code](#howtoe2ee).
+Algúns atributos requiren certas autorizacións,
+e.g. tes que dar permiso para empregar a cámara se queres [escanear un código QR](#howtoe2ee).
 
 See [Privacy Policy](https://delta.chat/en/gdpr#24-app-permissions) for a detailed overview.
 
